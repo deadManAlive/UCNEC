@@ -135,7 +135,7 @@ public class SelectModules extends javax.swing.JPanel {
 
         goToAbout.setBackground(new java.awt.Color(36, 113, 163));
         goToAbout.setForeground(new java.awt.Color(255, 255, 255));
-        goToAbout.setText("Acerca De");
+        goToAbout.setText("About");
         goToAbout.setBorder(null);
         goToAbout.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {

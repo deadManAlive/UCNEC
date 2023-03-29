@@ -262,7 +262,7 @@ public class Global {
      * mensajes
      */
     public static ResourceBundle getMessages() {
-        Locale aLocale = new Locale("es");
+        Locale aLocale = new Locale("en_US");
         ResourceBundle messages = ResourceBundle.getBundle("LabelsBundle", aLocale);
         return messages;
     }
